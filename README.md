@@ -5,3 +5,14 @@
 - [x] Typescript
 - [x] Eslint
 - [x] Prettier
+
+
+```
+npm install
+```
+
+```
+npm run dev
+```
+
+:)
